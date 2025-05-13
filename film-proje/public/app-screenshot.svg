@@ -1,0 +1,54 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f9fafb" rx="8" ry="8" />
+  
+  <!-- App UI -->
+  <rect x="50" y="50" width="700" height="500" fill="#ffffff" rx="8" ry="8" stroke="#e5e7eb" stroke-width="2" />
+  
+  <!-- Header -->
+  <rect x="50" y="50" width="700" height="60" fill="#4f46e5" rx="8" ry="8" />
+  <text x="400" y="85" font-family="Arial" font-size="20" fill="white" text-anchor="middle" font-weight="bold">Film Öneri Asistanı</text>
+  
+  <!-- Question Card -->
+  <rect x="100" y="140" width="600" height="200" fill="#eef2ff" rx="8" ry="8" />
+  <text x="400" y="180" font-family="Arial" font-size="18" fill="#4338ca" text-anchor="middle" font-weight="bold">Şu anki ruh haliniz nasıl?</text>
+  
+  <!-- Options -->
+  <rect x="150" y="200" width="230" height="50" fill="#ffffff" rx="6" ry="6" stroke="#c7d2fe" stroke-width="2" />
+  <text x="265" y="230" font-family="Arial" font-size="14" fill="#4338ca" text-anchor="middle">Mutlu ve neşeli</text>
+  
+  <rect x="420" y="200" width="230" height="50" fill="#ffffff" rx="6" ry="6" stroke="#c7d2fe" stroke-width="2" />
+  <text x="535" y="230" font-family="Arial" font-size="14" fill="#4338ca" text-anchor="middle">Hüzünlü veya düşünceli</text>
+  
+  <rect x="150" y="270" width="230" height="50" fill="#ffffff" rx="6" ry="6" stroke="#c7d2fe" stroke-width="2" />
+  <text x="265" y="300" font-family="Arial" font-size="14" fill="#4338ca" text-anchor="middle">Heyecanlı ve enerjik</text>
+  
+  <rect x="420" y="270" width="230" height="50" fill="#ffffff" rx="6" ry="6" stroke="#c7d2fe" stroke-width="2" />
+  <text x="535" y="300" font-family="Arial" font-size="14" fill="#4338ca" text-anchor="middle">Sakin ve rahat</text>
+  
+  <!-- Progress -->
+  <text x="150" y="380" font-family="Arial" font-size="14" fill="#6b7280" text-anchor="start">Soru 1/5</text>
+  
+  <!-- Movie Cards (Background) -->
+  <rect x="100" y="400" width="180" height="120" fill="#f3f4f6" rx="6" ry="6" />
+  <rect x="310" y="400" width="180" height="120" fill="#f3f4f6" rx="6" ry="6" />
+  <rect x="520" y="400" width="180" height="120" fill="#f3f4f6" rx="6" ry="6" />
+  
+  <!-- Movie Poster Placeholders -->
+  <rect x="110" y="410" width="70" height="100" fill="#d1d5db" rx="4" ry="4" />
+  <rect x="320" y="410" width="70" height="100" fill="#d1d5db" rx="4" ry="4" />
+  <rect x="530" y="410" width="70" height="100" fill="#d1d5db" rx="4" ry="4" />
+  
+  <!-- Movie Info Placeholders -->
+  <rect x="190" y="420" width="80" height="10" fill="#d1d5db" rx="2" ry="2" />
+  <rect x="190" y="440" width="60" height="8" fill="#e5e7eb" rx="2" ry="2" />
+  <rect x="190" y="460" width="40" height="8" fill="#e5e7eb" rx="2" ry="2" />
+  
+  <rect x="400" y="420" width="80" height="10" fill="#d1d5db" rx="2" ry="2" />
+  <rect x="400" y="440" width="60" height="8" fill="#e5e7eb" rx="2" ry="2" />
+  <rect x="400" y="460" width="40" height="8" fill="#e5e7eb" rx="2" ry="2" />
+  
+  <rect x="610" y="420" width="80" height="10" fill="#d1d5db" rx="2" ry="2" />
+  <rect x="610" y="440" width="60" height="8" fill="#e5e7eb" rx="2" ry="2" />
+  <rect x="610" y="460" width="40" height="8" fill="#e5e7eb" rx="2" ry="2" />
+</svg> 
