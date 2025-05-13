@@ -419,7 +419,7 @@ export default function Quiz() {
     <div className="min-h-screen bg-gradient-to-br from-indigo-500 to-indigo-700">
       <Header />
       <div className="pt-24 pb-8 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-3xl mx-auto">
+        <div className="max-w-4xl mx-auto">
           {/* Quiz Container */}
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl overflow-hidden border border-white/20">
             <div className="p-6 sm:p-8">
